@@ -1,0 +1,98 @@
+Script started on Sun 24 Mar 2024 02:41:39 PM EDT
+==158692== Memcheck, a memory error detector
+==158692== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==158692== Using Valgrind-3.21.0 and LibVEX; rerun with -h for copyright info
+==158692== Command: ws descriptions.txt prices_bad.txt prices_good.txt
+==158692== 
+[38;5;9mBegin Testing the Program!
+--------------------------[0m
+
+Command Line:
+--------------------------
+  1: ws
+  2: descriptions.txt
+  3: prices_bad.txt
+  4: prices_good.txt
+--------------------------
+
+ Code Description
+ 4662    tomatoes
+ 4039   cucumbers
+ 4056     brocoli
+ 4067      lemons
+ 4068     oranges
+
+********************************************
+* Good Prices
+********************************************
+ Code   Price
+ 4067    0.99
+ 4068    0.67
+ 4039    1.99
+ 4056    2.49
+
+********************************************
+* Bad Prices
+********************************************
+ Code   Price
+ 4067    0.99
+ 4068    0.67
+ 4039    1.99
+ 4056   -2.49
+
+********************************************
+* Merging bad prices using Raw Pointers
+********************************************
+     C [1]
+    CC [2] from [1]
+    ~D [1]
+     C [3]
+    ~D [3]
+    ~D [2]
+ERROR: *** Negative prices are invalid ***
+NOTE: An exception occurred while creating the list of products!
+
+********************************************
+* Merging bad prices using Smart Pointers
+********************************************
+     C [4]
+    CC [5] from [4]
+    ~D [4]
+     C [6]
+    ~D [6]
+    ~D [5]
+ERROR: *** Negative prices are invalid ***
+NOTE: An exception occurred while creating the list of products!
+
+
+********************************************
+* Merging good prices using Raw Pointers
+********************************************
+ Description   Price
+   cucumbers    1.99
+     brocoli    2.49
+      lemons    0.99
+     oranges    0.67
+
+********************************************
+* Merging good prices using Smart Pointers
+********************************************
+ Description   Price
+   cucumbers    1.99
+     brocoli    2.49
+      lemons    0.99
+     oranges    0.67
+
+
+[38;5;9m------------------------
+End Testing the Program![0m
+==158692== 
+==158692== HEAP SUMMARY:
+==158692==     in use at exit: 0 bytes in 0 blocks
+==158692==   total heap usage: 52 allocs, 52 frees, 103,256 bytes allocated
+==158692== 
+==158692== All heap blocks were freed -- no leaks are possible
+==158692== 
+==158692== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Sun 24 Mar 2024 02:41:40 PM EDT

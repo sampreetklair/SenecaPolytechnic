@@ -1,0 +1,16 @@
+-----------------------------------------------------------
+Name: Sampreet Klair
+Student ID: sklair2@myseneca.ca
+Student Number: 145031225
+Section: ZBB
+Date: 24th March, 2024
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+-----------------------------------------------------------
+
+OOP345 - Workshop 8 - Reflection
+
+By completing this workshop, I learned how to effectively use smart pointer and gained better understanding of them. Smart pointers like 'std::unique_pt', 'std::shared_ptr' and 'std::weak_ptr' offer automatic memory management which ensures that proper deallocation of memory takes place.
+
+1. As mentioned earlier smart pointers help us by providing an easy syntax for creating pointers without worrying about allocating and deallocating memory and we don't need to use the new and delete keywords. In my code I used smart pointers at code line unique_ptr<Product> temp(new Product(desc[i].desc, price[j].price)); in the utilities.cpp file where I replaced it at a code that was using raw pointers.
+
+2. Smart pointers are a part of Standard Template Library, which makes it quite unique from raw pointers. The main difference in the implementation of both is that in smart pointers we don't need to manually delete the memory container and release the memory. Whereas, if I did so with a raw pointer it would lead to a memory failure.

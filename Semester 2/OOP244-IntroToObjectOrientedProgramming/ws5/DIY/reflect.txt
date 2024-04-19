@@ -1,0 +1,10 @@
+// -----------------------------------------------------------
+// Name: Sampreet Klair
+// Student ID: sklair2@myseneca.ca
+// Student Number: 145031225
+// Section: ZDD
+// -----------------------------------------------------------
+
+Workshop 5 - Reflection
+
+In this workshop, I learned mainly about Helper functions and Member operators. Member Operators both binary and unary are essential for designing class interfaces that are easy to use and comprehend. We may increase the functionality of classes and give them greater versatility and expressiveness by overloading operators such as +, -, <\, and >>. Helper functions are the type of functions which are not the part of class, but can access the member functions and data variables by using friendship which grants helper functions access to the private members of a class. There are a set number of member operators which can be used to appoint a function to them and they can increase the usability of the program.

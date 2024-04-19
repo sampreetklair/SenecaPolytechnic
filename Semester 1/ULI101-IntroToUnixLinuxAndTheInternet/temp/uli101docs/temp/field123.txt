@@ -1,0 +1,12 @@
+Plym	fury	77
+chevy	nova	79
+ford	mustang	65
+volvo	gl	78
+ford	ltd	83
+chevy	nova	80
+fiat	600	65
+honda	accord	81
+ford	thundbd	84
+toyota	tercel	82
+chevy	impala	65
+ford	bronco	83

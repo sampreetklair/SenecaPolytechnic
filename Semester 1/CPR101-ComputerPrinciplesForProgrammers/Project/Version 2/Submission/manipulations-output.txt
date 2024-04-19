@@ -1,0 +1,48 @@
+*** start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit) :
+q
+*** End of Concatenating strings Demo ***
+
+*** start of Comparing strings Demo ***
+Type the ist string to compare (q - to quit) :
+a
+Type the 2nd string to compare:
+A
+'a' string is greater than 'A'
+Type the ist string to compare (q - to quit) :
+Hello
+Type the 2nd string to compare:
+world
+'Hello' string is less than 'world'
+Type the ist string to compare (q - to quit) :
+HELLO
+Type the 2nd string to compare:
+HELLO
+'HELLO' string is equal to  'HELLO'
+Type the ist string to compare (q - to quit) :
+10.712
+Type the 2nd string to compare:
+10.711
+'10.712' string is greater than '10.711'
+Type the ist string to compare (q - to quit) :
+123
+Type the 2nd string to compare:
+456
+'123' string is less than '456'
+Type the ist string to compare (q - to quit) :
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ
+Type the 2nd string to compare:
+123
+'ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ' string is greater than '123'
+Type the ist string to compare (q - to quit) :
+-2
+Type the 2nd string to compare:
+-4
+'-2' string is less than '-4'
+Type the ist string to compare (q - to quit) :
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEF
+Type the 2nd string to compare:
+'ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ' string is less than 'BCDEF'
+Type the ist string to compare (q - to quit) :
+q
+** End of Comparing StringsáDemo **

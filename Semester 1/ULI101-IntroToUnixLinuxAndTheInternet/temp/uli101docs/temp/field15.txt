@@ -1,0 +1,12 @@
+Plym	2500
+chevy	3000
+ford	10003
+volvo	9850
+ford	10507
+chevy	3503
+fiat	450
+honda	6000
+ford	17000
+toyota	755
+chevy	1553
+ford	9505

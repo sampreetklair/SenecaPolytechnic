@@ -1,0 +1,11 @@
+### Introductory Linux (Unix) course OPS224. The structure of the          ###
+### The author of this script is using this tutorial to send students'     ###
+*  These tutorials may be used for:                                         *
+*    ALL TUTORIALS HAVE THE FOLLOWING STRUCTURE:                            *
+*  TIPS FOR GETTING THE MOST OUT OF TUTORIALS:                              *
+*      in case you need to use them while performing the tutorial           *
+*    · Complete the entire tutorial                                         *   
+*    · Repeat the tutorial on a regular basis for review                    *
+*    · Try to use skills you have developed to accomplish other tasks       *
+*  A FEEDBACK section has been added to the end of each tutorial to         *
+*  allow ALL USERS to provide comments to improve the quality of the        *

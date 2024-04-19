@@ -1,0 +1,19 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #4
+Full Name  : Sampreet Klair
+Student ID#: 145031225
+Email      : sklair2@myseneca.ca 
+Section    : ZCC
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+Answer 1. Formatting the code is very important as it helps a lot in better understanding. In order to make my code easy to read and maintain, I have used the variable names that are related to the values stored in them and also it makes it easy to read/remember. I have also used consistent indentation for easy readability.
+
+Answer 2. If nesting was not possible then coding this assignment would be very difficult becasuse whenever we need to use an if-else condition inside another if-else condition, then it wouldn't be possible without nesting one in another. For instance, in Workshop 4 Part 2 assignment whenever there was an error, we needed to use nested if-else to execute it.
+
+Answer 3. It is inefficient to use a series of "if" statements instead of "if/else if" statements because by using only if statements the chances of the code being incorrect increases due to increase in error rate. Also by using multiple "if" statements instead of "if else/if" statements the power, space efficiency of the code/program decreases.

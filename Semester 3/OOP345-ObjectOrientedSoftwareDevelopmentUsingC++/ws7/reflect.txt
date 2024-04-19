@@ -1,0 +1,18 @@
+-----------------------------------------------------------
+Name: Sampreet Klair
+Student ID: sklair2@myseneca.ca
+Student Number: 145031225
+Section: ZBB
+Date: 17th March, 2024
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+-----------------------------------------------------------
+
+OOP345 - Workshop 7 - Reflection
+
+By completing this workshop, I learned how to effectively managed and worked with a collection of songs by using several STL functions. STL functions are template functions that comes with template libraries and are used to do pre-defined tasks that are defined in template library. I learned how to copy data from a file into a list, how to use the numeric library, how to use a lambda expression to specify an operation on each value in a list, and how to use the algorithm library to sort data.
+
+1. Some functions I used include for_each (easier to traverse through each element of the list), sort (gives sort functionality without needing to implement it), any_of (no need to use if-else to find just an element same as given data).
+
+2. Using STL algorithms has many benefits over manually creating the functionality with loops. First of all, STL algorithms have been extensively tested and are well optimized, which improves performance and reliability. Second, they facilitate readability and maintainability of code by reducing intricate tasks to straightforward, expressive function calls. Additionally, employing STL techniques promotes a more functional approach to programming, which can result in code that is more elegant and concise.
+
+3. If the file name is entered incorrectly, an error will be raised during the SongCollection class's instantiation process. Currently, error detection and user message delivery are critical tasks. Try-catch is one possible approach. If the file does not open, try reading it using the file name the user entered. If not, use throw to give an error message.

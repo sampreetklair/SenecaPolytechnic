@@ -1,0 +1,8 @@
+// -----------------------------------------------------------
+// Name: Sampreet Klair
+// Student ID: sklair2@myseneca.ca
+// Student Number: 145031225
+// Section: ZDD
+// -----------------------------------------------------------
+
+In this workshop, I learned about Constructors, Destructors and this keyword. To begin with, Constructions are the member functions having the same name with that of class and are called when the instance of that class or the object is called. Most of the time, constructors are used to initialize all the variable values to zero, but it can also have different purposes. If no constructor is declared by the programmer, then a default constructor is made and called when the object is called and it does initialize all the variables to 0 or Null. Destructor are the member functions which have a tilde (~) sign before the class name as their identifier and are executed at the end of that object's execution. The main purpose of destructors is to empty all the stored memory so that there are no memory related issues that occur after the execution of that object on the program. If we explicitly do not declare a destructor, then the compiler automatically declares one.

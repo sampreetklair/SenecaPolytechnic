@@ -1,0 +1,11 @@
+// -----------------------------------------------------------
+// Name: Sampreet Klair
+// Student ID: sklair2@myseneca.ca
+// Student Number: 145031225
+// Section: ZBB
+// Date: 28th January, 2024
+// -----------------------------------------------------------
+
+OOP345 - Workshop 2 - Reflection
+
+By completing this workshop I learned how to retrieve records from a text file using an input file stream object. I learned about how to monitor the time spent on a particular task using the std::chrono library. In the TimedEvents module I used instance variables that include the number of records, the start time for current event using std::chrono::steady_clock::time_point object, the end time for current event using std::chrono::steady_clock::time_point object. I also implemented copy constructor, copy assignment operator and destructor along with move constructor and move assignment operator.

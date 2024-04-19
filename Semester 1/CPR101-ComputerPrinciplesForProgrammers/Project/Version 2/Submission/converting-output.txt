@@ -1,0 +1,54 @@
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit) : 
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+1234
+Converted number is 1234.000000
+Type the double numeric string (q - to quit):
+12.34
+Converted number is 12.340000
+Type the double numeric string (q - to quit):
+0.314
+Converted number is 0.314000
+Type the double numeric string (q - to quit):
+-1234
+Converted number is -1234.000000
+Type the double numeric string (q - to quit):
+-12.34
+Converted number is -12.340000
+Type the double numeric string (q - to quit):
+hello
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+@
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+12 hello
+Converted number is 12.000000
+Type the double numeric string (q - to quit):
+12.34 hello
+Converted number is 12.340000
+Type the double numeric string (q - to quit):
+-12.34 hello
+Converted number is -12.340000
+Type the double numeric string (q - to quit):
+hello 1234
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+9999999999.1234
+Converted number is 9999999999.123400
+Type the double numeric string (q - to quit):
+100000000000.1 
+Converted number is 100000000000.100006
+Type the double numeric string (q - to quit):
+-9999999999.1234
+Converted number is -9999999999.123400
+Type the double numeric string (q - to quit):
+100000000000.1
+Converted number is 100000000000.100006
+Type the double numeric string (q - to quit):
+q
+*** End of Converting Strings to double Demo ***

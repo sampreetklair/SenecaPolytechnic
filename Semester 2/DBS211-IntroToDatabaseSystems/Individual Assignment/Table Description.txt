@@ -1,0 +1,14 @@
+-- The relation _Airport_ contains basic information about an airport	
+-- The relation _Flight_ contains basic information about a complete flight route
+-- The relation _Flight_Leg_ contains information about a flight segment within that route – This contains the Scheduled departure and Arrival times
+-- The relation _Leg_instance_ contains information on a flight leg from a particular day – This contains the Actual departure and Arrival times
+-- The relation _Airplane_type_ has information about different airplane models – this includes the original seating arrangement from the manufacturer
+-- The relation _Can_land_ has information about whether a certain type of airplane can land at a particular airport
+-- The relation _Airplane_ has information about a single airplane – this includes the modified seat arrangement from the manufacturer
+
+-- The following tables have been removed for DBS211
+-- The relation _Seat_reservation_ has information about a particular reservation for a flight
+-- The relation _Customer _ has information about passengers who have pre-booked
+-- The relation _Fare_ contains information on a fare for a flight
+
+-- The date format is YYYYMMDD

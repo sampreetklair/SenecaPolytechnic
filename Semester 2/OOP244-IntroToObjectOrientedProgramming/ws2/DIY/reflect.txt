@@ -1,0 +1,8 @@
+// -----------------------------------------------------------
+// Name: Sampreet Klair
+// Student ID: sklair2@myseneca.ca
+// Student Number: 145031225
+// Section: ZDD
+// -----------------------------------------------------------
+
+While completing the I learned various topics relating to the object oriented programming in c++ like Dynamic Memory, References and Overloading. In dynamic memory, I learned how to allocate and deallocate memory dynamically. In references, I learned how to use references to modify variables in different scope and use them. In function overloading, I learned how to read and load data from files efficiently. Even though, it was not taught in this week's lecture but by looking at the code in the LAB assignment I also learned how to sort employees based on their employee number and then display them as the output. While doing the workshop, I also learned how to define a DATAFILE of the extension .csv (a csv file) and then use it in the code and also how to modify the way it is shown as the output on the screen. I also further refreshed on how to write modular code using header and c++ files.

@@ -1,0 +1,45 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #7
+
+Full Name  : Sampreet Klair
+Student ID#: 145031225
+Email      : sklair2@myseneca.ca
+Section    : ZCC
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+1. I was successful in coding the non-repetitive sections of logic in the game by using if-else statements, arrays and do-while loops. I mainly did comparison using the if-else statements with equals to (=) operator, then I did multiple iterations using do-while loop and then for assigning position to character I used arrays.
+
+2. With the use of structures, my program was able to simplify a lot because with the help of structs I can make my own inter-related data structures which similar purpose. Alternative, I could have used variables or arrays instead of using structs but that would have made the code very big, repetitive and unrelated.
+
+3. The maximum number of nesting in the code which I ended up using is 3:
+  do {
+		
+		for (k = 0; k < game.path_length; k++)
+		{
+			if (current_position[k] == 'V')
+			{
+				count_char++;
+			}
+		}
+		if (count_char == 0)
+		{
+			printf("\n");
+		}
+		else
+		{
+			printf("  ");
+			for (k = 0; k < game.path_length; k++)
+			{
+				if (current_position[k] == 'V')
+				{
+					printf("%c\n", current_position[k]);
+        }
+      }
+    }
+  }

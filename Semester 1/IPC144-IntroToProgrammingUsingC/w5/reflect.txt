@@ -1,0 +1,20 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #5
+Full Name  : Sampreet Klair
+Student ID#: 145031225
+Email      : sklair2@myseneca.ca
+Section    : ZCC
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+Answer 1: We try to use variables and macros instead of hardcore "magic" numbers to represent constants because by doing this,
+  a. we can modify the code very easily, wherever there is a need to change the value of constant literal, we can just change the value at one place instead of changing it at multiple places.
+  b. we can reuse the variable/macros multiple times by substituting them at more than one places where that constant value is needed.
+  c. we minimize the scope of error by using the identical or same constant values throughout the code which makes the code consistent. 
+
+Answer 2: The sum and average logic are placed outside of any validation routine instead of being in any iteration used to validate the input and make sure it is in a specific range, because by using this approach, we are able to separate two different logics in the code which helps in better organization of the code. By doing this we are also making sure that only valid value that are in the range of permissible values are being stored in the container for printing the sum and average and the values outside the range are not added in the counter.

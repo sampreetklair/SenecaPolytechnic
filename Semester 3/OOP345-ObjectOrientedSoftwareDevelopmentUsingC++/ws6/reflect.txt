@@ -1,0 +1,18 @@
+-----------------------------------------------------------
+Name: Sampreet Klair
+Student ID: sklair2@myseneca.ca
+Student Number: 145031225
+Section: ZBB
+Date: 10th March, 2024
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+-----------------------------------------------------------
+
+OOP345 - Workshop 6 - Reflection
+
+By completing this workshop I gained a solid understanding of managing polymorphic objects using the vector container in the C++ Standard Template Library (STL). Key learning outcomes included working with dynamically allocated objects, implementing range-based iteration, and handling exceptions effectively.
+
+1. In the College class, implementing a destructor to deallocate dynamically allocated memory for persons stored in the vector was crucial to prevent memory leaks and ensure proper resource management. This underscored the significance of memory cleanup in C++ programming.
+
+2. When building objects from the input file, error detection was implemented by checking the first character of the record to determine the person type. Exception handling was used to report errors for invalid data. An alternative approach could involve using enums or error codes to indicate different types of errors.
+
+3. Using std::list<seneca::Person*> and std::vector<seneca::Person*> with pointers allowed for polymorphism and avoided object slicing. Storing objects of derived types in a container of base type was facilitated by using pointers, enabling flexibility and maintaining object integrity within the container.

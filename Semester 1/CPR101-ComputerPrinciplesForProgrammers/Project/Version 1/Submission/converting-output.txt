@@ -1,0 +1,50 @@
+INPUT/OUPUT:
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit) : 
+1234
+Converted number is 1234
+Type an int numeric string (q - to quit) : 
+12.34
+Converted number is 12
+Type an int numeric string (q - to quit) : 
+0.314
+Converted number is 0
+Type an int numeric string (q - to quit) : 
+-1234
+Converted number is -1234
+Type an int numeric string (q - to quit) : 
+-12.34
+Converted number is -12
+Type an int numeric string (q - to quit) : 
+hello
+Converted number is 0
+Type an int numeric string (q - to quit) : 
+@
+Converted number is 0
+Type an int numeric string (q - to quit) : 
+12 hello
+Converted number is 12
+Type an int numeric string (q - to quit) : 
+12.34 hello
+Converted number is 12
+Type an int numeric string (q - to quit) : 
+-12.34 hello
+Converted number is -12
+Type an int numeric string (q - to quit) : 
+hello 12.34
+Converted number is 0
+Type an int numeric string (q - to quit) : 
+999999999.1
+Converted number is 999999999
+Type an int numeric string (q - to quit) : 
+10000000000.1 
+Converted number is 1410065408
+Type an int numeric string (q - to quit) : 
+-999999999.1
+Converted number is -999999999
+Type an int numeric string (q - to quit) : 
+-10000000000.1
+Converted number is -1410065408
+Type an int numeric string (q - to quit) : 
+q
+*** End of Converting Strings to int Demo ***

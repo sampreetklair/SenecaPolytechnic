@@ -1,0 +1,6 @@
+The following standard output displayed
+An asterisk "*", on the other hand, is used
+searches, the period "." immediately followed
+The symbol that you use is backslash \ and
+represent the "and" condition. Instead
+If you are not able to provide the Linux command

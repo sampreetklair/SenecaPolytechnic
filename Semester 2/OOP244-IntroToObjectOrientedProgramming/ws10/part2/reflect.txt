@@ -1,0 +1,10 @@
+// -----------------------------------------------------------
+// Name: Sampreet Klair
+// Student ID: sklair2@myseneca.ca
+// Student Number: 145031225
+// Section: ZDD
+// -----------------------------------------------------------
+
+Workshop 10 - Reflection
+
+By completing this workshop I learned more about how to create a function template, how to create a template with multiple typenames, and how to create a template module. Templates in c++ is another way we can implement polymorphism that too with unrelated data types. I also learned about type casting. I learned how static_cast is used to cast between same data type family, how reinterpret_cast is used to cast between different data type family, how const_cast is used to remove const from an expression, and how dynamic_cast is used to reject an upcast or downcast when inheriting from a base class.

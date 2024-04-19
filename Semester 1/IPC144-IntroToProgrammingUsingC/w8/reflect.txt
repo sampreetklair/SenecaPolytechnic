@@ -1,0 +1,20 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #8
+Full Name  : Sampreet Klair
+Student ID#: 145031225
+Email      : sklair2@myseneca.ca
+Section    : ZCC
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+Answer 1: Many helper functions were designed to return values in two different ways one by argument and/or one by return. The benefit this method has is that if only one value needs to be output we can use the return statement or else, if more than one value needs to be output we can use variables or pointers. One negative thing about using this method is that we loose the uniformity in our code by using different methods.
+
+Answer 2: One function in the workshop that I think is behind in terms of cohesion is the function getCatFoodInfo(), because in only one function we are taking input of 4 variables, to improve this I will make separate function for each variable for taking input.
+One function in the workshop that I think is behind in terms of coupling is the function detail_record(), because in only one function we are substituting a plethora of variables for deriving a detailed record, to improve this I will make separate functions for declaring and substituting different variables.
+
+Answer 3: The advantage of passing structures to functions is that because structures are pass by value so it is easier to deal with the variables, also when a lot of similar variables are to be made structures are of a lot help. The displayCatfoodData() function could be improved if instead of taking individual variable parameters we would have taken a structure with different members replacing the variables.

@@ -1,0 +1,127 @@
+OUTPUTS OF ALL TESTS OF TOKENIZING Version 3:
+
+TEST 1:
+*** start of Tokenizing Sentences Demo ***
+Type a few sentences separated by dot (q - to quit) :
+this is only sentence
+Senetnce #1 is 'this is only sentence'
+Type a few sentences separated by dot (q - to quit) :
+q
+*** End of Tokenizing Sentences Demo ***
+
+
+TEST 2:
+*** start of Tokenizing Sentences Demo ***
+Type a few sentences separated by dot (q - to quit) :
+this is sentence one.This is sentence two.This is sentence three.
+Sentence #1 is 'this is sentence one'
+Sentence #2 is 'This is sentence two'
+Sentence #3 is 'This is sentence three'
+Type a few sentences separated by dot (q - to quit) :
+q
+*** End of Tokenizing Sentences Demo ***
+
+
+TEST 3:
+*** start of Tokenizing Sentences Demo ***
+Type a few sentences separated by dot (q - to quit) :
+this is sentence one.two.three.four
+Senetnce #1 is 'this is sentence one'
+Senetnce #2 is 'two'
+Senetnce #3 is 'three'
+Senetnce #4 is 'four'
+Type a few sentences separated by dot (q - to quit) :
+q
+*** End of Tokenizing Sentences Demo ***
+
+
+TEST 4:
+*** start of Tokenizing Sentences Demo ***
+Type a few sentences separated by dot (q - to quit) :
+this is sentence one . this is sentence two . this is sentence three
+Senetnce #1 is 'this is sentence one '
+Senetnce #2 is ' this is sentence two '
+Senetnce #3 is ' this is sentence three'
+Type a few sentences separated by dot (q - to quit) :
+q
+*** End of Tokenizing Sentences Demo ***
+
+
+TEST 5:
+*** start of Tokenizing Sentences Demo ***
+Type a few sentences separated by dot (q - to quit) :
+this is sentence one.this is sentence two.this is sentence three.this is sentence four.this is sentence five.this is sentence six.this is sentence seven.this is sentence eight.this is sentence nine.this is sentence ten.this is sentence eleven.this is sentence twelve
+Senetnce #1 is 'this is sentence one'
+Senetnce #2 is 'this is sentence two'
+Senetnce #3 is 'this is sentence three'
+Senetnce #4 is 'this is sentence four'
+Senetnce #5 is 'this is sentence five'
+Senetnce #6 is 'this is sentence six'
+Senetnce #7 is 'this is sentence seven'
+Senetnce #8 is 'this is sentence eight'
+Senetnce #9 is 'this is sentence nine'
+Senetnce #10 is 'this is sentence ten'
+Senetnce #11 is 'this is sentence eleven'
+Senetnce #12 is 'this is sentence twelve'
+Type a few sentences separated by dot (q - to quit) :
+q
+*** End of Tokenizing Sentences Demo ***
+
+
+TEST 6:
+*** start of Tokenizing Sentences Demo ***
+Type a few sentences separated by dot (q - to quit) :
+this is sentence one.this is sentence two.this is sentence three.this is sentence four.this is sentence five.this is sentence six.this is sentence seven.this is sentence eight.this is sentence nine.this is sentence ten.this is sentence eleven.this is sentence twelve.this is sentence thirteen.this is sentence fourteen.this is sentence fifteen.this is sentence sixteen.this is sentence seventeen.this is sentence eighteen.this is sentence nineteen.this is sentence twenty
+Senetnce #1 is 'this is sentence one'
+Senetnce #2 is 'this is sentence two'
+Senetnce #3 is 'this is sentence three'
+Senetnce #4 is 'this is sentence four'
+Senetnce #5 is 'this is sentence five'
+Senetnce #6 is 'this is sentence six'
+Senetnce #7 is 'this is sentence seven'
+Senetnce #8 is 'this is sentence eight'
+Senetnce #9 is 'this is sentence nine'
+Senetnce #10 is 'this is sentence ten'
+Senetnce #11 is 'this is sentence eleven'
+Senetnce #12 is 'this is sentence twelve'
+Senetnce #13 is 'this is sentence thirteen'
+Senetnce #14 is 'this '
+Type a few sentences separated by dot (q - to quit) :
+Senetnce #1 is 's sentence fourteen'
+Senetnce #2 is 'this is sentence fifteen'
+Senetnce #3 is 'this is sentence sixteen'
+Senetnce #4 is 'this is sentence seventeen'
+Senetnce #5 is 'this is sentence eighteen'
+Senetnce #6 is 'this is sentence nineteen'
+Senetnce #7 is 'this is sentence twenty'
+Type a few sentences separated by dot (q - to quit) :
+q
+*** End of Tokenizing Sentences Demo ***
+
+
+TEST 7:
+*** Start of Tokenizing Sentences Demo ***
+Type a few Sentences separated by dot (q - to quit) :
+
+Type a few Sentences separated by dot (q - to quit) :
+
+Type a few Sentences separated by dot (q - to quit) :
+
+Type a few Sentences separated by dot (q - to quit) :
+
+Type a few Sentences separated by dot (q - to quit) :
+
+Type a few Sentences separated by dot (q - to quit) :
+q
+*** End of Tokenizing Sentences Demo ***
+
+
+TESt 8:
+*** Start of Tokenizing Sentences Demo ***
+Type a few Sentences separated by space (q - to quit) :
+hello this is test 8
+Sentences #1 is 'hello this is test 8'
+Type a few words separated by space (q - to quit) :
+q
+*** End of Tokenizing Sentences Demo ***
+

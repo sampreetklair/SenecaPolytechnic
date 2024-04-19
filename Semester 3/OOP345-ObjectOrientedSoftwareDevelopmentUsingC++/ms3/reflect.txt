@@ -1,0 +1,12 @@
+-----------------------------------------------------------
+Name: Sampreet Klair
+Student ID: sklair2@myseneca.ca
+Student Number: 145031225
+Section: ZBB
+Date: 6th April, 2024
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+-----------------------------------------------------------
+
+OOP345 - Project Milestone 3 - Reflection
+
+After completing this course I have learnt a lot of things regarding advanced object oriented programming. I have learnt how to receive program arguments from the command line. I learned the difference between internal and external linking, about how using external linking we can use variables across multiple different translation units. I learned about the use of the Static keyword and how by using this keyword we can store our variable's value in static memory instead of dynamic memory which doesn't changes during the program's lifetime. I learned how to retrieve records from a text file using an input file stream object. I learned how to design and successfully implement a class template and how useful it can be for using the same piece of code for multiple times. I learned how we can pass typename or a class as a template variable and can declare a variable that is being replaced by it at multiple places. I also learned how to derive a class template from another class template and how it can be useful. I learned how to design and implement composition and aggregation in programming. I gained a solid understanding of function objects and lambda expressions. I gained a solid understanding of managing polymorphic objects using the vector container in the C++ Standard Template Library (STL). I learned how to effectively managed and worked with a collection of songs by using several STL functions. I learned how to effectively use smart pointer and gained better understanding of them. I learned how to process partitioned data on two or more threads, write a set of characters to a file in binary mode, read a set of characters from a file in binary mode, and bind a function to its arguments.

@@ -1,0 +1,6 @@
+plym fury 73 2500
+chevy nova 60 3000
+chevy nova 50 3500
+fiat 600 115 450
+toyota tercel 180 750
+chevy impala 85 1550

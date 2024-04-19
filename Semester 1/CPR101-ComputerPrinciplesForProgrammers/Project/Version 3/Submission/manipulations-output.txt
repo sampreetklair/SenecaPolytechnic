@@ -1,0 +1,53 @@
+*** start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit) :
+q
+*** End of Concatenating strings Demo ***
+
+*** start of Comparing strings Demo ***
+Type the 1st string to compare (q - to quit) :
+q
+** End of Comparing Strings Demo **
+
+*** Start of Searching Strings Demo ***
+Type the string (q - to quit) :
+
+Type the substring:
+
+'' found at 0 position
+Type the string (q - to quit) :
+232323223
+Type the substring:
+22
+'22' found at 6 position
+Type the string (q - to quit) :
+-8211134
+Type the substring:
+-2
+Not found
+Type the string (q - to quit) :
+10.72254
+Type the substring:
+25
+'25' found at 5 position
+Type the string (q - to quit) :
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Type the substring:
+Z
+'Z' found at 25 position
+Type the string (q - to quit) :
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABC
+Type the substring:
+'BC' found at 1 position
+Type the string (q - to quit) :
+-2
+Type the substring:
+2
+'2' found at 1 position
+Type the string (q - to quit) :
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ
+Type the substring:
+F
+'F' found at 5 position
+Type the string (q - to quit) :
+q
+*** End of searching strings Demo ***

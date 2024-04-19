@@ -1,0 +1,21 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #6
+Full Name  : Sampreet Klair
+Student ID#: 145031225
+Email      : sklair2@myseneca.ca
+Section    : ZCC
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+Answer 1: There are three different types of iteration constructs and all three of them have different purpose. 'For' iteration construct is used to do iterations where the maximum value till where iteration needs to be done is known/given. Whereas 'while' iteration construct is used where there is a condition and the iteration keeps on running until that condition is true. The 'do-while' iteration construct is useful when we have a condition similar to the 'while' construct but we want to run the iteration atleast for once.
+While working with the arrays, we usually tend to prefer using 'for' iteration because in an array we know what the maximum number of elements is and in a for loop, iterations are made till the maximum element.
+
+Answer 2: For testing my code, I use a technique known as Black Box method in which I input some test cases which consist of boundary values as well as other test case scenarios, and based on the output I then analyze my code.
+For debugging my code, I use a built in IDE debugger which come in Visual Studio. For syntatic error, the debuggers tells me where the bug is and I fix it in my code. For semantic errors, I see/analyze where the expected output differs from the actual output and fix it.
+
+Answer 3: I think the error in the question is because instead of taking an input from the user the value 567.89 is defined in the printf statement. For resolving this issue, I would first remove/delete the value 567.89 from the printf statement, then I would substitute a scanf statement in the following line where the user would enter a double floating point as an input as their monthly salary.

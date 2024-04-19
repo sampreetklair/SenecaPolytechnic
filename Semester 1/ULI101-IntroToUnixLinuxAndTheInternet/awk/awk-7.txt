@@ -1,0 +1,2 @@
+ford	ltd	83	15	10500
+ford	thundbd	84	10	17000

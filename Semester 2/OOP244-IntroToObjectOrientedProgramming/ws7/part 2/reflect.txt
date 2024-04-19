@@ -1,0 +1,12 @@
+// -----------------------------------------------------------
+// Name: Sampreet Klair
+// Student ID: sklair2@myseneca.ca
+// Student Number: 145031225
+// Section: ZDD
+// -----------------------------------------------------------
+
+Workshop 7 - Reflection
+
+The main things I took away from this workshop were: using the custom input/output operators with the classes, accessing the shadowed member functions defined in a base class, inheriting a derived class from a base class, and shadowing the base class member functions with the derived class member functions. I learned about how to create a derived class from a base class and how to access and shadow member functions of the base class through the use of the protected modifier. Building on already existing classes promotes code reuse and encourages a more structured, modular code structure. Overloading operators, specifically +=, -=, <<, and >>, was emphasized during the workshop. This flexibility and customization were demonstrated by overloading these operators in the base and derived classes, which enhanced the readability and conciseness of the code.
+
+

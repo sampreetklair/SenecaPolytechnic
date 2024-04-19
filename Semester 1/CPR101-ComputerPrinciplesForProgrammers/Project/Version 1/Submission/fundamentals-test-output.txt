@@ -1,0 +1,50 @@
+INPUT/OUTPUT:
+*** start of Indexing Strings Demo ***
+Type not empty string (q to quit):
+123456789
+Type the character position within the string:
+0
+The character found at position 0 is '1'
+Type not empty string (q to quit):
+123456789
+Type the character position within the string:
+5
+The character found at position 5 is '6'
+Type not empty string (q to quit):
+0123456789
+Type the character position within the string:
+9
+The character found at position 9 is '9'
+Type not empty string (q to quit):
+abcdefghij                           
+Type the character position within the string:
+3
+The character found at position 3 is 'd'
+Type not empty string (q to quit):
+012345678901234567890123456789                                    
+Type the character position within the string:
+18
+The character found at position 18 is '8'
+Type not empty string (q to quit):
+abcdefghijklmnopqrstuvwxyz                           
+Type the character position within the string:
+25
+The character found at position 25 is 'z'
+Type not empty string (q to quit):
+34567
+Type the character position within the string:
+5
+Too big... Position reduced to max. available
+The character found at position 4 is '7'
+Type not empty string (q to quit):
+23456
+Type the character position within the string:
+-2
+Too big... Position reduced to max. available
+The character found at position 4 is '6'
+Type not empty string (q to quit):
+theGAME
+Type the character position within the string:
+k
+The character found at position 0 is 't'
+*** End of Fundamentals Strings to int Demo ***

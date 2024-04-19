@@ -1,0 +1,6 @@
+2500 73 fury plym
+3000 60 nova chevy
+3500 50 nova chevy
+450 115 600 fiat
+750 180 tercel toyota
+1550 85 impala chevy

@@ -1,0 +1,18 @@
+The grep utility does not use delimiters "//" as
+The grep utility reads each line from a file
+The lines displayed above should contain
+The only character that is not recognized as a
+The standard output of this command should differ
+The following standard output displayed
+The caret ^ symbol is used to force a match at
+The caret symbol also has a different meaning
+The character class symbol [] is used to
+The symbol that you use is backslash \ and
+These symbols can be used together to force
+There is one occurence of work "feedbacking"
+There are two types of characters that CANNOT
+There are additional searching symbols that
+The question mark "?" symbol is used to match
+The asterisk "*" is used to match zero or more
+The plus sign "+" is used to match ONE OR MORE
+The pipe "|" symbol is used to represent the

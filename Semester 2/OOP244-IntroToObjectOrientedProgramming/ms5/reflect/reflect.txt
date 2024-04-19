@@ -1,0 +1,10 @@
+// -----------------------------------------------------------
+// Name: Sampreet Klair
+// Student ID: sklair2@myseneca.ca
+// Student Number: 145031225
+// Section: ZDD
+// -----------------------------------------------------------
+
+Milestone 5 - Reflection
+
+By completing this milestone and also completing this course I learned a lot about the object oriented programming techniques, I learned about Encapsulation, Inheritance and Polymorphism as the three building blocks of object oriented programming. I learned that there are two types of memory in a system: Static and Dynamic and that the static memory is made at compile time and the dynamic memory is made during run-time. Then I learned about how we declare private, public and protected data members and member functions. I learned about classes and objects being instance of a class. In encapsulation I learned about Constructor, Destructor, member operator and Helper functions. Constructor is called when the class is called, destructor is called when the class is exited. Member operators are used to override some symbols and operators and helper function is used to induce friendship in a class. In inheritance I learned about Derived classes from a base class and functions hierarchy in Inheritance. In polymorphism, I learned about virtual keyword used to overload a function, pure virtual functions and abstract classes containing at least one pure virtual function. I also learned about templates and how it is used to reuse a once declared code. So, overall I can say that in this course I learned a plethora about object oriented programming techniques and I will try to implement these in my day to day programming.

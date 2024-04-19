@@ -1,0 +1,63 @@
+*** start of Indexing Strings Demo ***
+Type not empty string (q to quit):
+lets start
+Type the character position within the string:
+1
+The character found at position 1 is 'e'
+Type not empty string (q to quit):
+q
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+wer
+The length of 'wer' is 3 characters
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
+*** Start of Copying strings Demo ***
+Destination string is reset to empty
+Type the source string (q to quit):
+lets start
+New destination string is 'lets start'
+Destination string is reset to empty
+Type the source string (q to quit):
+this is new strng to test the code in the middle range
+New destination string is 'this is new strng to test the code in the middle range'
+Destination string is reset to empty
+Type the source string (q to quit):
+nice code lets try to break the code and see how many letters it can hold in one  i guess this is enough to break it.
+New destination string is 'nice code lets try to break the code and see how many letters it can hold in o'
+Destination string is reset to empty
+Type the source string (q to quit):
+New destination string is 'e  i guess this is enough to break it.'
+Destination string is reset to empty
+Type the source string (q to quit):
+0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567
+New destination string is '012345678901234567890123456789012345678901234567890123456789012345678901234567'
+Destination string is reset to empty
+Type the source string (q to quit):
+New destination string is '901234567'
+Destination string is reset to empty
+Type the source string (q to quit):
+012345678901234567890123456789012345678901234567890123456789012345678901234567
+New destination string is '012345678901234567890123456789012345678901234567890123456789012345678901234567'
+Destination string is reset to empty
+Type the source string (q to quit):
+mix type testing 1234<>~?:L"
+New destination string is 'mix type testing 1234<>~?:L"'
+Destination string is reset to empty
+Type the source string (q to quit):
+
+New destination string is '     '
+Destination string is reset to empty
+Type the source string (q to quit):
+
+New destination string is ''
+Destination string is reset to empty
+Type the source string (q to quit):
+okay this works properly and code is quite good
+New destination string is 'okay this works properly and code is quite good'
+Destination string is reset to empty
+Type the source string (q to quit):
+q
+*** End of Copying Strings Demo ***

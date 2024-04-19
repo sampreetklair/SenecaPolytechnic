@@ -1,0 +1,20 @@
+///////////////////////////////////////////////////////////////////////////
+                              Reflection
+                          Workshop - #2 (P2)
+Full Name  : Sampreet Klair
+Student ID#: 145031225
+Email      : sklair2@myseneca.ca
+Section    : ZCC
+
+Authenticity Declaration:
+
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+1. The price1 and the corresponding converted cent value does not properly represents the intended value because the value in the cents is not rounded off to 2 digits. All other samples work as expected because in other examples the values does not exceed 2 digits after decimal point.
+2. The three given examples works as intended because in first statement, int money = 7245 gets promoted to double when divided by 100.0. In the second statement, the int 100 in the denominator is casted as a double and when int money = 7245 is divided by double 100, it gets promoted. In the third statement, the int money = 7245 has been implicitly converted to double before division and when divided by 100, the 100 gets promoted and the result is a double.
+3. a. The value of the variable result is 72, because result = money/100 where money = int 7245 and int divided by int gives int without the decimal part because of Tranculation so, the result = 75.
+3. b. The values displayed for sample 1: $0.00, sample 2: $72, sample 3: $ 0.00, sample 4: $72.
+3. c. It can be concluded that in printf statement if an int is to be printed, the argument must be %d, and not %lf.

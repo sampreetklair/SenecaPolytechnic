@@ -1,0 +1,101 @@
+OUTPUTS OF ALL 8 TESTS OF TOKENIZING Version 2:
+
+TEST 1:
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+this is only phrase
+Phrase #1 is 'this is only phrase'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+
+TEST 2:
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+this is phrase one,this is phrase two,this is phrase three.
+Phrase #1 is 'this is phrase one'
+Phrase #2 is 'this is phrase two'
+Phrase #3 is 'this is phrase three.'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+
+TEST 3:
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+this is phrase one,two,three,four
+Phrase #1 is 'this is phrase one'
+Phrase #2 is 'two'
+Phrase #3 is 'three'
+Phrase #4 is 'four'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+
+TEST 4:
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+this is phrase one , this is phrase two , this is phrase three
+Phrase #1 is 'this is phrase one '
+Phrase #2 is ' this is phrase two '
+Phrase #3 is ' this is phrase three '
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+
+TEST 5:
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+this is phrase one,this is phrase two,this is phrase three,this is phrase four,this is phrase five,this is phrase six,this is phrase seven,this is phrase eight,this is phrase nine,this is phrase ten,this is phrase eleven,this is phrase twelve
+Phrase #1 is 'this is phrase one'
+Phrase #2 is 'this is phrase two'
+Phrase #3 is 'this is phrase three'
+Phrase #4 is 'this is phrase four'
+Phrase #5 is 'this is phrase five'
+Phrase #6 is 'this is phrase six'
+Phrase #7 is 'this is phrase seven'
+Phrase #8 is 'this is phrase eight'
+Phrase #9 is 'this is phrase nine'
+Phrase #10 is 'this is phrase ten'
+Phrase #11 is 'this is phrase eleven'
+Phrase #12 is 'this is phrase twelve'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+
+TEST 6:
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+this is phrase one,this is phrase two,this is phrase three,this is phrase four,this is phrase five,this is phrase six,this is phrase seven,this is phrase eight,this is phrase nine,this is phrase ten,this is phrase eleven,this is phrase twelve,this is phrase thirteen,this is phrase fourteen,this is phrase fifteen,this is phrase sixteen,this is phrase seventeen,this is phrase eighteen,this is phrase nineteen,this is phrase twenty
+Phrase #1 is 'this is phrase one'
+Phrase #2 is 'this is phrase two'
+Phrase #3 is 'this is phrase three'
+Phrase #4 is 'this is phrase four'
+Phrase #5 is 'this is phrase five'
+Phrase #6 is 'this is phrase six'
+Phrase #7 is 'this is phrase seven'
+Phrase #8 is 'this is phrase eight'
+Phrase #9 is 'this is phrase nine'
+Phrase #10 is 'this is phrase ten'
+Phrase #11 is 'this is phrase eleven'
+Phrase #12 is 'this is phrase twelve'
+Phrase #13 is 'this is phrase thirteen'
+Phrase #14 is 'this is phrase fourteen'
+Phrase #15 is 'this is'
+Type a few phrases separated by comma(q - to quit):
+Phrase #1 is 'phrase fifteen'
+Phrase #2 is 'this is phrase sixteen'
+Phrase #3 is 'this is phrase seventeen'
+Phrase #4 is 'this is phrase eighteen'
+Phrase #5 is 'this is phrase nineteen'
+Phrase #6 is 'this is phrase twenty'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+

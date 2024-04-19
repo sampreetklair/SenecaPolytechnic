@@ -1,0 +1,1 @@
+USAGE: ./exit.bash [arg]

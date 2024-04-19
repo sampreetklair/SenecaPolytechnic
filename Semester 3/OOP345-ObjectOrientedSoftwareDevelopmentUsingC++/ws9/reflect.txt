@@ -1,0 +1,16 @@
+-----------------------------------------------------------
+Name: Sampreet Klair
+Student ID: sklair2@myseneca.ca
+Student Number: 145031225
+Section: ZBB
+Date: 31st March, 2024
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+-----------------------------------------------------------
+
+OOP345 - Workshop 9 - Reflection
+
+By completing this workshop, I learned how to process partitioned data on two or more threads, write a set of characters to a file in binary mode, read a set of characters from a file in binary mode, and bind a function to its arguments
+First and foremost, Binary files were used in the workshop to store and get the data of a Treasure Map. Unlike text files that store the data in ASCII format, binary files store data in a raw format without any formatting or encoding. This makes them more efficient for storing complex data. In this workshop, binary files were used to store the number of rows, column sizes, and the contents of the map.
+Secondly, In this workshop, binding a function to its arguments is helpful since a function can be partially applied, with some of its arguments fixed or preset, by binding to its arguments. std::bind was used in the workshop to bind the mark character to be looked for, which is one of the inputs of the digForTreasure() function. In the multi-threaded treasure-finding process, this made it easy to split jobs across several threads by enabling the creation of thread tasks with predetermined inputs.
+Thirdly, There are various benefits to using multiple threads, such as better resource utilization, responsiveness in programs, and increased performance due to parallel processing. Through data partitioning and parallel processing on many threads, multi-threading was used in this workshop to improve the treasure seeking process. The data consisted of strings that represented the rows of the map. This method assisted in decreasing the total execution time and effectively utilizing the computer resources.
+Lastly, The workshop used packaged_tasks and futures to hold the outcome of the digForTreasure() function. The futures were used to get the results of the tasks created with the packaged_task objects, which returned a count of treasure found. Packaged_tasks and futures are related in that futures are used to generate tasks that return results, and futures are used to get the outcome of a task.

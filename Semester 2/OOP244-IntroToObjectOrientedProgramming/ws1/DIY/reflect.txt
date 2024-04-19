@@ -1,0 +1,7 @@
+// -----------------------------------------------------------
+// Name: Sampreet Klair
+// Student ID: sklair2@myseneca.ca
+// Student Number: 145031225
+// Section: ZDD
+// -----------------------------------------------------------
+During the development of this assignment, I have learned a plethora of things. First and foremost, I learned how to make the code modular and divide the code into functions. I also learned how to declare the function statements in the header file (.h file) and how to define them in the implementation file (.cpp file). During the development of code for this workshop, I also learned about various "String functions which were created by own and not provided by the C++ library. Because this was the first assignment in the C++ language, I also learned about the differences between the syntax of c and C++ languages like using 'cout' instead of 'printf', using 'can' instead of 'scanf', etc. While importing the header files in the C++ files, I also learned about the one-definition rule which states that a function should only be defined at only one place in a program. While coding for this assignment, I also learned how to use namespace effectively by using namespace std and namespace sdds at different instances in the code.

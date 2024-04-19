@@ -1,0 +1,10 @@
+// -----------------------------------------------------------
+// Name: Sampreet Klair
+// Student ID: sklair2@myseneca.ca
+// Student Number: 145031225
+// Section: ZDD
+// -----------------------------------------------------------
+
+Workshop 3 - Reflection
+
+While doing this assignment, I had the opportunity to learn various new topics related to object oriented programming in C++ and also learned how we can implement those topics in real programs. To begin with, I learned how to define a class and then how to use those classes to write private and public data members and member functions. I learned about the privatization of data and how can we access private data members using public member functions. While doing the assignment I also learned about memory leaking and how it can be prevented by writing good and correct code. I also learned about constructor and destructor functions, I learned that a constructor function is a function having the same name as that of a class and is executed when that class is called. I learned about destructor a destructor is a function executed at the end of a class and is used to delete the declared memory in that class. 

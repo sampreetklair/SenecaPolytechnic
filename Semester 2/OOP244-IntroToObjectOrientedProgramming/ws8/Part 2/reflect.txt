@@ -1,0 +1,10 @@
+// -----------------------------------------------------------
+// Name: Sampreet Klair
+// Student ID: sklair2@myseneca.ca
+// Student Number: 145031225
+// Section: ZDD
+// -----------------------------------------------------------
+
+Workshop 8 - Reflection
+
+The main things I took away from this workshop were: defining pure virtual functions, creating abstract base classes, implementing behaviour using virtual functions, and explaining the difference between an abstract base class and a concrete class. I learned that virtual functions are very important components of polymorphism which allows the programmer to overload a member function in its derived classes using the virtual keyword. I also learned that pure virtual functions are virtual functions that are equal to 0 and are required in all of their derived classes. I also learned that abstract classes are the base classes that have a virtual function in them. Using virtual keywords to make a virtual function in an abstract base class is the practice of implementing polymorphism which increases the reusability and flexibility of the program.

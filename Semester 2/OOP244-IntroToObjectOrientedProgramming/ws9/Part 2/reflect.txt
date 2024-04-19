@@ -1,0 +1,10 @@
+// -----------------------------------------------------------
+// Name: Sampreet Klair
+// Student ID: sklair2@myseneca.ca
+// Student Number: 145031225
+// Section: ZDD
+// -----------------------------------------------------------
+
+Workshop 9 - Reflection
+
+By completing this workshop I learned more about derived classes and polymorphism which is extension of the previous workshop. In this workshop, I learned about the 'Rule of Three' which means having a special bespoke copy constructor, overloaded assignment operator, and a destructor in the class by allocating resources using dynamic memory. By using the rule of three we can help ourselves a lot by avoiding shallow copying, double deletion and memory leaks which makes our program more robust and error proof. While using the rule of three, we can ensure that the data is dynamically created and we can also make sure that the data is being copied dynamically in the deep memory and not using the shallow copy. After completing this workshop, I have gained confidence in using the rule of three which helps me in creating error proof c++ code and managing memory efficiently.

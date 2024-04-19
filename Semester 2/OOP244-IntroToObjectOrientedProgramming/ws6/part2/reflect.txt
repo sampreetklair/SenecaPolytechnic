@@ -1,0 +1,11 @@
+// -----------------------------------------------------------
+// Name: Sampreet Klair
+// Student ID: sklair2@myseneca.ca
+// Student Number: 145031225
+// Section: ZDD
+// -----------------------------------------------------------
+
+Workshop 6 - Reflection
+
+My key learnings from this workshop were regarding classes, resources, and IO operators.
+Thinking Back on Workshop and Project Completions. I discovered how to create and implement classes that have multiple constructors, which offers flexibility in constructing objects with various initializations while reading about classes and overload constructors. I also discovered that it has been emphasized how important it is to implement the copy constructor, copy assignment operator, and destructor. I've also read that one of the most important aspects of this workshop has been overloading input and output operators to read and write data to and from streams. Dynamic memory allocation and management were also covered in the workshop, mainly for managing the dynamic name storage within the HealthCard class.

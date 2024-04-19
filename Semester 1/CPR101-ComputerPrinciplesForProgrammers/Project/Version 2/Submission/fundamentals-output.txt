@@ -1,0 +1,81 @@
+*** start of Indexing Strings Demo ***
+
+Type not empty string (q to quit):
+
+q
+
+*** Start of Measuring Strings Demo ***
+
+Type a string (q - to quit):
+
+0123456789
+
+The length of '0123456789' is 10 characters
+
+Type a string (q - to quit):
+
+thisisnewtestcase
+
+The length of 'thisisnewtestcase' is 17 characters
+
+Type a string (q - to quit):
+
+012345678901234567890123456789012345678901234567890123456789012345678901234567
+
+The length of '012345678901234567890123456789012345678901234567890123456789012345678901234567' is 78 characters
+
+Type a string (q - to quit):
+
+'
+
+The length of ''' is 1 characters
+
+Type a string (q - to quit):
+
+thisisnewusertryingtotestthecodewithvisualocdeeditor
+
+The length of 'thisisnewusertryingtotestthecodewithvisualocdeeditor' is 52 characters
+
+Type a string (q - to quit):
+
+0123456789012345678901234567890123456789012345678901234567890123456789012345
+
+The length of '0123456789012345678901234567890123456789012345678901234567890123456789012345' is 76 characters
+
+Type a string (q - to quit):
+
+6789001
+
+The length of '6789001' is 7 characters
+
+Type a string (q - to quit):
+
+01234567890123456789012345678901234567890123456789012345678901234567890123456789001
+
+The length of '012345678901234567890123456789012345678901234567890123456789012345678901234567' is 78 characters
+
+Type a string (q - to quit):
+
+The length of '9001' is 4 characters
+
+Type a string (q - to quit):
+
+-12
+
+The length of '-12' is 3 characters
+
+Type a string (q - to quit):
+
+!thia is number two 2
+
+The length of '!thia is number two 2' is 21 characters
+
+Type a string (q - to quit):
+
+The length of '' is 0 characters
+
+Type a string (q - to quit):
+
+q
+
+*** End of Measuring Strings Demo ***

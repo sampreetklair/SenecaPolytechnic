@@ -1,0 +1,44 @@
+INPUT/OUTPUT:
+*** start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit) :
+Fenil 
+Type the 2nd string:
+Soni
+Concatenated string is 'Fenil Soni' 
+Type the 1st string (q - to quit) :
+
+Type the 2nd string:
+
+Concatenated string is '' 
+Type the 1st string (q - to quit) :
+123
+Type the 2nd string:
+456
+Concatenated string is '123456' 
+Type the 1st string (q - to quit) :
+ffffffffffffffffeeeeeeeeeeeeeeeeeennnnnnnnnnnnnnnnnnnniiiiiiiiiiiiiiiiiiiiiiiilllllllllllllllllllllllll
+Type the 2nd string:
+*** buffer overflow detected ***
+Type the 1st string (q - to quit) :
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNO
+Type the 2nd string:
+123
+Concatenated string is 'ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNO123' 
+Type the 1st string (q - to quit) :
+1.2
+Type the 2nd string:
+2.4
+Concatenated string is '1.22.4' 
+Type the 1st string (q - to quit) :
+1.2245
+Type the 2nd string:
+
+Concatenated string is '1.2245' 
+Type the 1st string (q - to quit) :
+!@#$%
+Type the 2nd string:
+^&*()
+Concatenated string is '!@#$%^&*()' 
+Type the 1st string (q - to quit) :
+q
+*** End of Concatenating strings Demo ***
