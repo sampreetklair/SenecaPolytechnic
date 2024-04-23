@@ -244,7 +244,7 @@ int main() {
 
     // Database credentials
     string user = "dbs311_241zra19";
-    string pass = "Sam2812";
+    string pass = "<password>";
     string constr = "myoracle12c.senecacollege.ca:1521/oracle12c";
 
     try {
