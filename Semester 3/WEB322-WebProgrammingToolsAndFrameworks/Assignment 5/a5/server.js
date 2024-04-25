@@ -6,9 +6,7 @@
 *
 * https://www.senecacollege.ca/about/policies/academic-integrity-policy.html
 *
-* Name: Sampreet Klair Student ID:145031225 Date: 07-04-2024
-*
-* Published URL: https://dark-lime-scallop-belt.cyclic.app/
+* Published URL: https://lego-a5.cyclic.app/
 ********************************************************************************/
 
 const legoData = require("./modules/legoSets");

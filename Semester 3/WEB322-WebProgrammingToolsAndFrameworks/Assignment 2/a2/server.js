@@ -6,8 +6,6 @@
 * 
 *  https://www.senecacollege.ca/about/policies/academic-integrity-policy.html
 * 
-*  Name: Sampreet Klair Student ID: 145031225 Date: 4th February, 2024
-*
 ********************************************************************************/
 
 
