@@ -22,7 +22,7 @@ This is a compilation of work done by me at Seneca Polytechnic in the following 
 - SYD366
 - WEB322
 
-### Semester 4 (Ongoing)
+### Semester 4
 - DSA456
 - EAC594
 - ELA521
