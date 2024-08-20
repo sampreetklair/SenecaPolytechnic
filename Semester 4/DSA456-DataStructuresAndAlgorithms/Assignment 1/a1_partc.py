@@ -1,5 +1,5 @@
-#	Main Author(s): Sampreet Klair 
-#	Main Reviewer(s): Harsahbaj Singh, Saeed Bafana
+#	Main Author(s): 
+#	Main Reviewer(s): 
 
 class Stack:
 

@@ -1,5 +1,5 @@
-#    Main Author(s): Saeed Bafana
-#    Main Reviewer(s): Sampreet Klair, Harsahbaj Singh
+#    Main Author(s): 
+#    Main Reviewer(s): 
 
 class SortedList:
 

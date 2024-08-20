@@ -1,5 +1,5 @@
-# Main Author: Saeed Bafana
-# Main Reviewer: Sampreet Klair, Harsahbaj Singh
+# Main Author: 
+# Main Reviewer: 
 
 from a1_partc import Queue
 from a1_partd import overflow

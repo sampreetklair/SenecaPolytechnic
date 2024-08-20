@@ -1,5 +1,5 @@
-#	Main Author(s): Sampreet Klair
-#	Main Reviewer(s): Saeed Bafana, Harsahbaj Singh
+#	Main Author(s): 
+#	Main Reviewer(s): 
 
 class HashTable:
 

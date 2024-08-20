@@ -1,7 +1,7 @@
 # copy over your a1_partd.py file here
 
-# Main Author(s): Harsahbaj Singh 
-# Main Reviewer(s): Sampreet Klair, Saeed Bafana
+# Main Author(s): 
+# Main Reviewer(s): 
 
 # a1_partd.py
 
