@@ -1,9 +1,4 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZDD
-// -----------------------------------------------------------
+
 
 #ifndef SDDS_PERISHABLE_H
 #define SDDS_PERISHABLE_H
@@ -12,10 +7,9 @@
 #include<iostream>
 #include<fstream>
 
-namespace sdds 
-{
-	class Perishable :public Item 
-	{
+namespace sdds
+ {
+	class Perishable :public Item {
 		char* m_instructions{};
 		Date m_exp_date{ Date() };
 
@@ -38,13 +32,7 @@ namespace sdds
 
 		operator bool()const {
 			return m_exp_date.getYear();
-		
-		
 		}
-	
-	
 	};
-
-
 }
-#endif // !PERISHABLE_H
+#endif 

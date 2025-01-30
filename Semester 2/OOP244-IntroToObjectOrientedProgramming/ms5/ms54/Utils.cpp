@@ -1,9 +1,4 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZDD
-// -----------------------------------------------------------
+
 
 #include <iostream>
 #include <ctime>
@@ -15,7 +10,6 @@ using namespace std;
 
 namespace sdds 
 {
-
     Utils ut;
 
     void Utils::testMode(bool testmode) {
@@ -50,6 +44,7 @@ namespace sdds
                 cout << prompt;
             }
             if (!(std::cin >> value)) {
+                // Handle non- input
                 cin.clear();
                 std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
                 if (errMes != nullptr) {
@@ -88,11 +83,7 @@ namespace sdds
         int days[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31, -1 };
         int mon = (month >= 1 && month <= 12 ? month : 13) - 1;
         return days[mon] + int((mon == 1) * ((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0));
-    
-    
     }
-
-
 
     
 }

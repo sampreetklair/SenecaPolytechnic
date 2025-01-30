@@ -1,12 +1,3 @@
------------------------------------------------------------
-Name: Sampreet Klair
-Student ID: sklair2@myseneca.ca
-Student Number: 145031225
-Section: ZBB
-Date: 31st March, 2024
-I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
------------------------------------------------------------
-
 OOP345 - Workshop 9 - Reflection
 
 By completing this workshop, I learned how to process partitioned data on two or more threads, write a set of characters to a file in binary mode, read a set of characters from a file in binary mode, and bind a function to its arguments

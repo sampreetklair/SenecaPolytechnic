@@ -1,12 +1,3 @@
------------------------------------------------------------
-Name: Sampreet Klair
-Student ID: sklair2@myseneca.ca
-Student Number: 145031225
-Section: ZBB
-Date: 4th February, 2024
-I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
------------------------------------------------------------
-
 OOP345 - Workshop 3 - Reflection
 
 By completing this workshop I learned how to design and successfully implement a class template and how useful it can be for using the same piece of code for multiple times. I learned how we can pass typename or a class as a template variable and can declare a variable that is being replaced by it at multiple places. I also learned how to derive a class template from another class template and how it can be useful. Overall, I learned that templates are like flexible blueprints for creating versatile classes which can be used again and again at multiple places inside our code.

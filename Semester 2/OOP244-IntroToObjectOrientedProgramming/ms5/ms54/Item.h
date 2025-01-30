@@ -1,9 +1,4 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZDD
-// -----------------------------------------------------------
+
 
 #ifndef SDDS_ITEM_H
 #define SDDS_ITEM_H
@@ -17,7 +12,8 @@ using namespace std;
 namespace sdds 
 {
 
-	class Item :public iProduct {
+	class Item :public iProduct 
+	{
 		double m_price;
 		int m_qtyOnHand;
 		int m_neededQty;
@@ -46,6 +42,7 @@ namespace sdds
 		operator bool()const override;
 
 		int readSku(std::istream& istr)override;
+		void setQuantity(int newQty);
 		char* readDesc(istream& istr);
 		int readQtyNeeded(istream& istr);
 		int readQtyInHand(istream& istr);
@@ -65,7 +62,10 @@ namespace sdds
 
 
 
+
+
 	};
+
 
 
 	

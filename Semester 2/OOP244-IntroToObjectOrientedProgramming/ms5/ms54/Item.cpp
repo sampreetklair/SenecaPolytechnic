@@ -1,9 +1,3 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZDD
-// -----------------------------------------------------------
 
 #include "Item.h"
 #include <iostream>
@@ -11,9 +5,12 @@
 #include<iomanip>
 #include <cstring>
 #include <limits>
+
+
 using namespace std;
-namespace sdds 
-{
+
+namespace sdds
+ {
 	bool Item::linear() const
 	{
 		return m_isLinear;
@@ -128,7 +125,6 @@ namespace sdds
 			}
 			else { isValid = true; }
 
-			/*cout << endl;*/
 		} while (!isValid);
 		m_neededQty = qty_needed;
 		return m_neededQty;
@@ -256,20 +252,13 @@ namespace sdds
 		{
 			if (linear() && m_sku) {
 
-				ostr << std::setw(5) << std::left << m_sku << " | ";
-				ostr << std::setw(100) << std::left << m_item_desc << " | ";
-				ostr << std::setw(4) << std::right << m_qtyOnHand << " | ";
-				ostr << std::setw(4) << std::right << m_neededQty << " | ";
-				ostr << std::setw(6) << std::fixed << std::setprecision(2) << m_price << " |";
-			}
-				/*ostr << setw(5) << left << m_sku << " " << setfill(' ') << "| ";
+				ostr << setw(5) << left << m_sku << " " << setfill(' ') << "| ";
 				for (size_t i = 0; i < 35 && m_item_desc[i] != '\0'; i++)
 				{
 					ostr << m_item_desc[i];
 				}
 				std::streamsize padding = 35 - strlen(m_item_desc) + 1;
 				ostr << setw(padding) << " " << "| "
-
 					<< setw(4) << right << m_qtyOnHand << " | "
 					<< setw(4) << right << m_neededQty << " |  ";
 				if (m_qtyOnHand == 0)
@@ -281,7 +270,8 @@ namespace sdds
 					purchaseFund = ((m_price * m_neededQty) - m_qtyOnHand * m_price);
 				}
 				ostr << setw(6) << fixed << setprecision(2) << m_price << " |";
-			}*/
+			}
+				
 			else {
 
 				ostr << "AMA Item:" << endl;
@@ -323,6 +313,10 @@ namespace sdds
 
 		return istr;
 	}
+	void Item::setQuantity(int newQty)
+	{
+		m_qtyOnHand = newQty;
+	}
 
 	void Item::clear()
 	{
@@ -344,9 +338,10 @@ namespace sdds
 	
 	void Item::setSku(int sku) {
 		m_sku = sku;
-
-
 	}
+
+
+
 
 
 

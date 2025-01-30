@@ -1,8 +1,1 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZBB
-// -----------------------------------------------------------
-
 By completing this workshop I learned how to receive program arguments from the command line. I learned the difference between internal and external linking, about how using external linking we can use variables across multiple different translation units. I learned about the use of the Static keyword and how by using this keyword we can store our variable's value in static memory instead of dynamic memory which doesn't changes during the program's lifetime. I also implemented proper memory management techniques and ensured that the dynamically allocated memory is deleted to prevent memory leaks.

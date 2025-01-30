@@ -1,13 +1,10 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZDD
-// -----------------------------------------------------------
+
 
 #include "Status.h"
 #include<cstring>
-namespace sdds {
+
+namespace sdds 
+{
 	const char* Status::getDescription() const
 	{
 		return description;
@@ -138,10 +135,9 @@ namespace sdds {
 			}
 		}
 		return ostr;
-	
-	
-	
 	}
+
+
 
 
 }

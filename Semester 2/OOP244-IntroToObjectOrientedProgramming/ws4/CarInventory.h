@@ -1,9 +1,4 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZDD
-// -----------------------------------------------------------
+
 #define _CRT_SECURE_NO_WARNINGS
 #ifndef SDDS_CARINVENTORY_H
 #define SDDS_CARINVENTORY_H

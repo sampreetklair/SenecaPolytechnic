@@ -1,9 +1,4 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZDD
-// -----------------------------------------------------------
+
 #ifndef _SDDS_UTILS_H
 #define _SDDS_UTILIS_H
 #include <iostream>

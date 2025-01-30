@@ -1,9 +1,4 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZDD
-// -----------------------------------------------------------
+
 
 #ifndef SDDS_DATE_H
 #define SDDS_DATE_H
@@ -12,7 +7,6 @@
 
 namespace sdds 
 {
-
 
 	class Date 
 	{
@@ -50,13 +44,16 @@ namespace sdds
 		int getYear() const { return year; }
 		int getMonth() const { return month; }
 		int getDay() const { return day; }
-	
 	};
+
+
 
 
 	std::ostream& operator<<(std::ostream& os, const Date& date);
 	std::istream& operator>>(std::istream& is, Date& date);
 
 
+
+
 }
-#endif // !DATE_H
+#endif

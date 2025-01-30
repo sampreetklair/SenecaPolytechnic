@@ -1,11 +1,3 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZBB
-// Date: 23rd March, 2024
-// I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
-// -----------------------------------------------------------
 
 #ifndef SENECA_UTILITIES_H
 #define SENECA_UTILITIES_H

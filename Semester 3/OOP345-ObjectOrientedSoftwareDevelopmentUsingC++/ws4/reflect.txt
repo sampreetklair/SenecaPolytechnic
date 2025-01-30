@@ -1,12 +1,3 @@
------------------------------------------------------------
-Name: Sampreet Klair
-Student ID: sklair2@myseneca.ca
-Student Number: 145031225
-Section: ZBB
-Date: 11th February, 2024
-I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
------------------------------------------------------------
-
 OOP345 - Workshop 4 - Reflection
 
 By completing this workshop I learned how to design and implement composition and aggregation in programming. In this workshop, I dealt with the concepts of composition and aggregation in object-oriented programming, focusing on classes like Child and ConfirmOrder that manage toy-related information. The tricky part was understanding the different relationships these classes have with the Toy class. Child and Toy objects had a composition relationship, meanwhile, ConfirmOrder and Toy objects had an aggregation relationship. The code in the workshop showed association, aggregation, and composition relations. Child demonstrated composition, while ConfirmOrder demonstrated aggregation. In summary, by completing this workshop, I leveled up my skills in designing and implementing composition and aggregation while programming.

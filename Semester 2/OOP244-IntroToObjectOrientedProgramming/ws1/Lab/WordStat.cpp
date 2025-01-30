@@ -1,14 +1,3 @@
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Date: 14th September, 2023
-// Section: ZDD
-// -----------------------------------------------------------
-
 #include <iostream>
 #include "Word.h"
 #include "Word.h"

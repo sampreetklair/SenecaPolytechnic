@@ -1,12 +1,3 @@
------------------------------------------------------------
-Name: Sampreet Klair
-Student ID: sklair2@myseneca.ca
-Student Number: 145031225
-Section: ZBB
-Date: 24th March, 2024
-I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
------------------------------------------------------------
-
 OOP345 - Workshop 8 - Reflection
 
 By completing this workshop, I learned how to effectively use smart pointer and gained better understanding of them. Smart pointers like 'std::unique_pt', 'std::shared_ptr' and 'std::weak_ptr' offer automatic memory management which ensures that proper deallocation of memory takes place.

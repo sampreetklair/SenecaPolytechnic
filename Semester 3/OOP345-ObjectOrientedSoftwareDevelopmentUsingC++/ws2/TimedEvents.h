@@ -1,11 +1,3 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZBB
-// Date: 28th January, 2024
-// -----------------------------------------------------------
-
 
 #ifndef SENECA_TIMEDEVENTS_H
 #define SENECA_TIMEDEVENTS_H

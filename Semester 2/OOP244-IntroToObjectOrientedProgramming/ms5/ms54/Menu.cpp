@@ -1,9 +1,4 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZDD
-// -----------------------------------------------------------
+
 
 #include "Menu.h"
 #include"AidMan.h"
@@ -78,10 +73,10 @@ namespace sdds
 	Menu::~Menu()
 	{
 		delete[] m_options;
-
-
+	
+	
+	
 	}
-
 
 
 

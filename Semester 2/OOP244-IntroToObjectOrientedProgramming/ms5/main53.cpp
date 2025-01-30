@@ -1,15 +1,4 @@
-/***********************************************************************
-// Final project Milestone 53
-//
-// File: main53.cpp
-// Version 1.0
-// Author  Fardad Soleimanloo
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name                 Date            Reason
-***********************************************************************/
+
 #include <iostream>
 #include <fstream>
 #include "AidMan.h"

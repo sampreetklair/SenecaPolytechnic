@@ -1,12 +1,3 @@
------------------------------------------------------------
-Name: Sampreet Klair
-Student ID: sklair2@myseneca.ca
-Student Number: 145031225
-Section: ZBB
-Date: 17th March, 2024
-I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
------------------------------------------------------------
-
 OOP345 - Workshop 7 - Reflection
 
 By completing this workshop, I learned how to effectively managed and worked with a collection of songs by using several STL functions. STL functions are template functions that comes with template libraries and are used to do pre-defined tasks that are defined in template library. I learned how to copy data from a file into a list, how to use the numeric library, how to use a lambda expression to specify an operation on each value in a list, and how to use the algorithm library to sort data.

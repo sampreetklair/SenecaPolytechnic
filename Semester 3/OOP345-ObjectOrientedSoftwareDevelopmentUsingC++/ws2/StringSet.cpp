@@ -1,11 +1,3 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZBB
-// Date: 28th January, 2024
-// -----------------------------------------------------------
-
 
 #include <fstream>
 #include "StringSet.h"

@@ -1,12 +1,3 @@
------------------------------------------------------------
-Name: Sampreet Klair
-Student ID: sklair2@myseneca.ca
-Student Number: 145031225
-Section: ZBB
-Date: 16th February, 2024
-I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
------------------------------------------------------------
-
 OOP345 - Workshop 5 - Reflection
 
 By completing this workshop I gained a solid understanding of function objects and lambda expressions. I discovered that objects known as functors can be called much like functions, offering a versatile means of encapsulating behavior. However, lambda expressions provide an easy-to-use and short syntax for writing anonymous functions. I understood the situations in which either strategy makes sense, with lambda expressions being useful for brief, one-time use and functors being useful for more intricate, reusable behavior. Furthermore, I had trouble managing exceptions, especially in the SpellChecker class' constructor. Additionally, I saw that the Book and Movie classes shared the same logic, so I thought about redesigning them to remove any redundant information. Finally, taking into account the default constructor in these classes, I considered its necessity and the safety of removing it, keeping in mind the consequences of my decision. Overall, this workshop provided a practical exploration of functions, error handling, and design considerations in C++.

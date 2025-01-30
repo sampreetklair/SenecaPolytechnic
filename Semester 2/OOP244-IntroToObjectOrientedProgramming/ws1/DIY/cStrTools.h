@@ -1,10 +1,3 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZDD
-// -----------------------------------------------------------
-
 #ifndef NAMESPACE_CSTRTOOLS_H // replace with relevant names
 #define NAMESPACE_CSTRTOOLS_H
 #include <cstring>

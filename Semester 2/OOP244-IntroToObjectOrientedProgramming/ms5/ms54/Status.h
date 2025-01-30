@@ -1,17 +1,13 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZDD
-// -----------------------------------------------------------
+
 
 #ifndef SDDS_STATUS_H
 #define SDDS_STATUS_H
 #include <iostream>
 
+
 namespace sdds 
 {
-	class Status
+	class Status 
 	{
 		char* description{};
 		int statusCode{};
@@ -31,13 +27,9 @@ namespace sdds
 		Status& operator=(const int newStatus);
 		Status& clear();
 
-
-
 	};
 
-
-	std::ostream& operator <<(std::ostream& ostr, const Status& status);
-
 	
+	std::ostream& operator <<(std::ostream& ostr, const Status& status);
 }
 #endif // !STATUS_H

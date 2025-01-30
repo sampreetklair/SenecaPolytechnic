@@ -1,9 +1,4 @@
-// -----------------------------------------------------------
-// Name: Sampreet Klair
-// Student ID: sklair2@myseneca.ca
-// Student Number: 145031225
-// Section: ZDD
-// -----------------------------------------------------------
+
 
 #include "Perishable.h"
 #include"Date.h"
@@ -57,6 +52,8 @@ namespace sdds
 		const int size = 1000;
 		char tempInstructions[size];
 		tempInstructions[0] = '\0';
+		//istr.clear();
+		//istr.ignore();
 		istr.get(tempInstructions, size, '\n');
 		ut.alocpy(m_instructions, tempInstructions);
 
@@ -226,9 +223,5 @@ namespace sdds
 			status.setStatus("Perishable console date entry failed!");
 		}
 		return istr;
-
-
-}
-
-
+	}
 }
